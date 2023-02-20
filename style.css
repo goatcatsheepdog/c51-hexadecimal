@@ -1,0 +1,26 @@
+h1{
+    background-color: #0000ff;
+}
+
+
+.header{
+   background-color: #606060; 
+   display: flex;
+   justify-content:center;
+   margin-left: 100;
+   padding-left:100;
+   border:solid 2px
+   
+
+}
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.item{
+    margin: 100px;
+}
+body{
+    background-color: #bbbbbb;
+}
